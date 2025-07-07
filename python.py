@@ -1,3 +1,7 @@
 print("I am done")
 print("Python is simple")
 print("Coding is simple")
+print("I am learning Python")
+print("I am learning Python with OpenAI")
+print("I am learning Python with OpenAI and ChatGPT")
+print("I am learning Python with OpenAI and ChatGPT in 2023")
